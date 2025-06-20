@@ -15,8 +15,8 @@ Radar Display Optimized to 1366 x 768 pixel screen resolution.
 For any procedural discrepancies, please refer to IVAO Indonesia Divisional procedure found here : https://id.ivao.aero/page/division-procedures
 
 # Installation
-Download the complete zip version from the Main Branch
-Extract directly (or copy) and OVERWRITE to the SectorFiles folder within your Aurora Installation folder.
+1. Download the complete zip version from the Main Branch
+2. Extract directly (or copy) and OVERWRITE to the SectorFiles folder within your Aurora Installation folder.
 Linux:
 `~/.local/share/IVAO/Aurora/SectorFiles`
 MacOS:
@@ -25,6 +25,7 @@ Windows:
 `<Aurora_Root_folder>\SectorFiles`
 by default:
 `C:\Aurora\SectorFiles`
+
 Your other downloaded sectorfiles will remain intact.
 Refer to Aurora Manual to use the program.
 
