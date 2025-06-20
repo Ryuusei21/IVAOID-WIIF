@@ -5,7 +5,7 @@ This sectorfile is intended to be used in aviation simulation operation under Ty
 
 Request to support Operation Type M & X, should be addressed to IVAO Indonesia Special Operation Department.
 
-THIS SECTORFILES CAN ONLY BE USED IN IVAO ATC SIMULATION.
+## ***THIS SECTORFILES CAN ONLY BE USED IN IVAO ATC SIMULATION.***
 
 Supported Positions
 Due to area clustering scheme, this sectorfile only provide data for following positions only :
